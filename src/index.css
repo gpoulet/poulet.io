@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fcfcfc;
+}
+
+#sidenav-overlay {
+  z-index: 1;
+}
+
+nav {
+  /*background-color: #f44336;*/
+  /*background-color: #ef5350;*/
+  background-color: #e53935;
+}
+
+a.menu.active {
+  background-color: #0288d1;
+  /*background-color: #d32f2f;*/
+  /*background-color: #ef5350;*/
+  /*background-color: #e53935;*/
+  border-bottom-color: #eee;
+  border-bottom-style: solid;
+  /*color: #ffc107;*/
+  font-weight: 600;
+}
+
+a.menu:hover {
+  border-bottom-color: #eee;
+  border-bottom-style: solid;
+}
+
+a.mobile-menu.active {
+  background-color: #eeeeee;
+  color: #000;
+  font-weight: 600;
+}
+
+.side-nav .userView .background {
+  background-color: #f44336;
+  background-image:  linear-gradient(
+          rgba(0, 0, 0, 0.2),
+          rgba(0, 0, 0, 0.2)
+  ),url("/images/background.jpg");
+  /*opacity: 0.9;*/
+  /*filter: alpha(opacity=90);*/
+  /*-webkit-filter: blur(1px);*/
+  /*-moz-filter: blur(1px);*/
+  /*-o-filter: blur(1px);*/
+  /*-ms-filter: blur(1px);*/
+  /*filter: blur(1px);*/
+}
+
+.side-nav .userView .name {
+  font-weight: 600;
+}
+.side-nav .userView .email {
+  font-weight: 500;
+}
+
+nav .brand-logo {
+  font-size: 1.4rem;
+}
+
+.menu-profil {
+  height:3rem;
+  width:3rem;
+}
