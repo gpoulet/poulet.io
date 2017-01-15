@@ -7,8 +7,8 @@
       "content": "February - December 2011",
       "modalTitle": "Program",
       "modalContent": "Analysis, Development, Database, Modelling, Project Management",
-      "icon": "person",
-      "iconColor": "red"
+      "icon": "school",
+      "iconColor": "blue"
     },
     {
       "image": "/images/timeline/sage.png",
@@ -17,8 +17,8 @@
       "content": "July 2011 - October 2011",
       "modalTitle": "Technologies",
       "modalContent": "Java, Java EE, SWING, Android, SVN, Oracle Database",
-      "icon": "person",
-      "iconColor": "green"
+      "icon": "domain",
+      "iconColor": "blue"
     },
     {
       "image": "/images/timeline/sage.png",
@@ -28,7 +28,7 @@
       "modalTitle": "Technologies",
       "modalContent": "Java, Maven, SVN, Jenkins, SonarQube, JUnit, Oracle Database",
       "icon": "domain",
-      "iconColor": "green"
+      "iconColor": "red"
     },
     {
       "image": "/images/timeline/vienne-dev.jpg",
@@ -37,8 +37,8 @@
       "content": "Septembre 2012 - January 2013",
       "modalTitle": "Technologies",
       "modalContent": "PHP, JavaScript, jQuery, GIT, Joomla",
-      "icon": "person",
-      "iconColor": "red"
+      "icon": "domain",
+      "iconColor": "grey"
     },
     {
       "image": "/images/timeline/cnous.png",
@@ -47,8 +47,8 @@
       "content": "January 2013 - February 2015",
       "modalTitle": "Technologies",
       "modalContent": "Java, JSF, JSP, Spring, Maven, SVN, Jenkins, SonarQube",
-      "icon": "person",
-      "iconColor": "blue"
+      "icon": "domain",
+      "iconColor": "green"
     },
     {
       "image": "/images/timeline/imie.png",
@@ -57,7 +57,7 @@
       "content": "February 2015 - August 2015",
       "modalTitle": "Program",
       "modalContent": "Analysis, Development, Database, Modelling, Project Management",
-      "icon": "person",
+      "icon": "school",
       "iconColor": "grey"
     },
     {
@@ -65,20 +65,30 @@
       "alt": "SERLI",
       "title": "Developer (intern)",
       "content": "August 2015 - November 2015",
-      "modalTitle": "Program",
-      "modalContent": "Analysis, Development, Database, Modelling, Project Management",
-      "icon": "person",
-      "iconColor": "blue"
+      "modalTitle": "Technologies",
+      "modalContent": "Java, JavaScript, Android, Node.js, React, MongoDB, Beacon",
+      "icon": "domain",
+      "iconColor": "grey"
     },
     {
       "image": "/images/timeline/imie.png",
       "alt": "IMIE Nantes",
       "title": "Project Manager (bac+5)",
-      "content": "February 2015 - August 2015",
+      "content": "November 2015 - August 2016",
       "modalTitle": "Program",
-      "modalContent": "Analysis, Development, Database, Modelling, Project Management",
-      "icon": "person",
-      "iconColor": "grey"
+      "modalContent": "Software Architecture, Network Architecture, Project Management, Agility",
+      "icon": "school",
+      "iconColor": "blue"
+    },
+    {
+      "image": "/images/timeline/serli.png",
+      "alt": "IMIE Nantes",
+      "title": "Developper",
+      "content": "November 2015 - August 2016",
+      "modalTitle": "Technologies",
+      "modalContent": "Java, JavaScript Scala, Spring, React, Polymer, Node.js, MongoDB, Android, Beacon, Amazon EC2, Jenkins, Heroku",
+      "icon": "domain",
+      "iconColor": "blue"
     },
     {
       "image": "/images/timeline/serli.png",
@@ -87,8 +97,8 @@
       "content": "September 2016 - Now",
       "modalTitle": "Program",
       "modalContent": "Analysis, Development, Database, Modelling, Project Management",
-      "icon": "person",
-      "iconColor": "blue"
+      "icon": "domain",
+      "iconColor": "red"
     }
   ]
 }
