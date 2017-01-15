@@ -5,7 +5,7 @@ import {Router, Route, IndexRoute, browserHistory} from 'react-router';
 import Layout from './Layout';
 import Home from './Home';
 import Skills from './Skills';
-import Timeline from './Timeline';
+import Timeline from './timeline/Timeline';
 import Conferences from './Conferences';
 import Blog from './Blog';
 import Contact from './Contact';
