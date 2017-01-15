@@ -46,7 +46,7 @@
       "title": "Developer",
       "content": "January 2013 - February 2015",
       "modalTitle": "Technologies",
-      "modalContent": "Java, JSF, JSP, Spring, Maven, SVN, Jenkins, SonarQube",
+      "modalContent": "Java, JSF, JSP, Spring, Hibernate, Maven, SVN, Jenkins, SonarQube",
       "icon": "domain",
       "iconColor": "green"
     },
@@ -95,8 +95,8 @@
       "alt": "SERLI",
       "title": "Software Engineer",
       "content": "September 2016 - Now",
-      "modalTitle": "Program",
-      "modalContent": "Analysis, Development, Database, Modelling, Project Management",
+      "modalTitle": "Technologies",
+      "modalContent": "Java, Spring, Hibernate, AngularJS, JavaScript, Oracle Database",
       "icon": "domain",
       "iconColor": "red"
     }
