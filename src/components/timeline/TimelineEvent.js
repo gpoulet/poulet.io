@@ -11,7 +11,7 @@ export default class TimelineEvent extends React.Component {
     content: React.PropTypes.string,
     modalTitle: React.PropTypes.string,
     modalContent: React.PropTypes.string
-  }
+  };
 
   shouldComponentUpdate() {
     return false;

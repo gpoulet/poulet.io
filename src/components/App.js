@@ -6,7 +6,7 @@ import Layout from './Layout';
 import Home from './Home';
 import Skills from './Skills';
 import Timeline from './timeline/Timeline';
-import Conferences from './Conferences';
+import Conferences from './conferences/Conferences';
 import Blog from './Blog';
 import Contact from './Contact';
 import NotFound from './NotFound';

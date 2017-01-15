@@ -65,3 +65,7 @@ nav .brand-logo {
   height:3rem;
   width:3rem;
 }
+
+div.card > div.card-stacked > div.card-content > p.card-title  {
+  color: #003b6f;
+}

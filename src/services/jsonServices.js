@@ -12,3 +12,7 @@ const get = (entity, callback, callbackError) => {
 export const getTimeline = (callback, callbackError) => {
   get('timeline', callback, callbackError)
 };
+
+export const getConferences = (callback, callbackError) => {
+  get('conferences', callback, callbackError)
+};
