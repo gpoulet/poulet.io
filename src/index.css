@@ -17,6 +17,10 @@ nav>div>a.brand-logo {
   font-size: 1.2rem;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 a.menu.active {
   background-color: #00203c;
   font-weight: 600;

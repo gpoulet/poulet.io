@@ -18,7 +18,7 @@ export default class NavBar extends React.Component {
         <div className="navbar-fixed">
           <nav>
             <div className="nav-wrapper container">
-              <a href="#!" className="brand-logo">Gauthier POULET</a>
+              <Link to="/home" activeClassName={'active'} className="brand-logo">Gauthier POULET</Link>
               <a href="#" data-activates="mobile-demo" className="button-collapse"><i
                 className="material-icons">menu</i></a>
               <ul className="right hide-on-med-and-down">

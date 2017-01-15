@@ -6,6 +6,7 @@
     "react-scripts": "0.8.5"
   },
   "dependencies": {
+    "font-awesome": "FortAwesome/Font-Awesome",
     "materialize-css": "^0.97.8",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
