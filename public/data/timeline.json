@@ -38,7 +38,7 @@
       "modalTitle": "Technologies",
       "modalContent": "PHP, JavaScript, jQuery, GIT, Joomla",
       "icon": "domain",
-      "iconColor": "grey"
+      "iconColor": "green"
     },
     {
       "image": "/images/timeline/cnous.png",
@@ -48,7 +48,7 @@
       "modalTitle": "Technologies",
       "modalContent": "Java, JSF, JSP, Spring, Hibernate, Maven, SVN, Jenkins, SonarQube",
       "icon": "domain",
-      "iconColor": "green"
+      "iconColor": "amber"
     },
     {
       "image": "/images/timeline/imie.png",
@@ -58,7 +58,7 @@
       "modalTitle": "Program",
       "modalContent": "Analysis, Development, Database, Modelling, Project Management",
       "icon": "school",
-      "iconColor": "grey"
+      "iconColor": "blue-grey"
     },
     {
       "image": "/images/timeline/serli.png",
@@ -68,7 +68,7 @@
       "modalTitle": "Technologies",
       "modalContent": "Java, JavaScript, Android, Node.js, React, MongoDB, Beacon",
       "icon": "domain",
-      "iconColor": "grey"
+      "iconColor": "blue-grey"
     },
     {
       "image": "/images/timeline/imie.png",
