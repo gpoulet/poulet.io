@@ -28,6 +28,7 @@ export default class NavBar extends React.Component {
                 <li><Link activeClassName={'active'} className="menu" to={'/conferences'}>Conferences</Link></li>
                 <li><Link activeClassName={'active'} className="menu" to={'/blog'}>Blog</Link></li>
                 <li><Link activeClassName={'active'} className="menu" to={'/contact'}>Contact</Link></li>
+                <li><a href="https://www.github.com/gpoulet" className="menu" target="_blank"><i className="fa fa-github fa-lg nav-icon" /></a></li>
               </ul>
               <ul className="side-nav" id="mobile-demo">
                 <li>
@@ -42,7 +43,7 @@ export default class NavBar extends React.Component {
                   <i className="material-icons">home</i>Home</Link>
                 </li>
                 <li><Link className="mobile-menu" activeClassName={'active'} onClick={this.closeSideNav} to={'/skills'}>
-                  <i className="material-icons">perm_identity</i>Skills</Link>
+                  <i className="material-icons">equalizer</i>Skills</Link>
                 </li>
                 <li><Link className="mobile-menu" activeClassName={'active'} onClick={this.closeSideNav} to={'/timeline'}>
                   <i className="material-icons">timeline</i>Timeline</Link>
@@ -51,7 +52,7 @@ export default class NavBar extends React.Component {
                   <i className="material-icons">language</i>Conferences</Link>
                 </li>
                 <li><Link className="mobile-menu" activeClassName={'active'} onClick={this.closeSideNav} to={'/blog'}>
-                  <i className="material-icons">supervisor_account</i>Blog</Link>
+                  <i className="material-icons">library_books</i>Blog</Link>
                 </li>
                 <li><Link className="mobile-menu" activeClassName={'active'} onClick={this.closeSideNav} to={'/contact'}>
                   <i className="material-icons">mail</i>Contact</Link>

@@ -1,5 +1,8 @@
 import React from 'react';
 
+import Date from '../util/Date';
+import Location from '../util/Location';
+
 export default class ConferenceItem extends React.Component {
 
   static propTypes = {
@@ -22,7 +25,8 @@ export default class ConferenceItem extends React.Component {
           <div className="card-stacked">
             <div className="card-content">
               <p className="card-title truncate">{this.props.name}</p>
-              <p>{this.props.years ? this.props.years.join('-') : ''}</p>
+              <p>{this.props.years ? <Date date={this.props.years.join('-')}/> : '' }</p>
+              <p><Location address={this.props.location} /></p>
             </div>
           </div>
         </div>

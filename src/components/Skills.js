@@ -1,7 +1,11 @@
 import React from 'react';
 
-export default class About extends React.Component {
+export default class Skills extends React.Component {
   render() {
-    return <div>About</div>;
+    return (
+      <div className="container">
+        <h2 className="header">Skills</h2>
+      </div>
+    );
   }
 }

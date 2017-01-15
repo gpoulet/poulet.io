@@ -1,5 +1,8 @@
 import React from 'react';
 
+import Date from './../util/Date';
+import Location from './../util/Location';
+
 export default class TimelineEvent extends React.Component {
 
   static propTypes = {
@@ -28,7 +31,8 @@ export default class TimelineEvent extends React.Component {
           </div>
           <div className="card-content">
             <span className="card-title activator">{this.props.title}<i className="material-icons right grey-text text-darken-4">more_vert</i></span>
-            <p>{this.props.content}</p>
+            <p><Date date={this.props.date} /></p>
+            <p><Location address={this.props.location} /></p>
           </div>
           <div className="card-reveal">
             <span className="card-title grey-text text-darken-4">{this.props.modalTitle}<i className="material-icons right">close</i></span>

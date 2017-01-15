@@ -3,12 +3,14 @@
     {
       "image": "/images/conferences/breizhcamp.png",
       "name": "BreizhCamp",
+      "location" : "Rennes",
       "years": [2014,2016, 2017],
       "url": "http://www.breizhcamp.org"
     },
     {
       "image": "/images/conferences/devfest-nantes.jpg",
       "name": "DevFest Nantes",
+      "location" : "Nantes",
       "years": [2014],
       "url": "https://devfest.gdgnantes.com"
     },
@@ -16,23 +18,27 @@
       "image": "/images/conferences/jug-summer-camp.png",
       "name": "JUG Summer Camp",
       "years": [2015, 2016, 2017],
+      "location" : "La Rochelle",
       "url": "http://www.jugsummercamp.com"
     },
     {
       "image": "/images/conferences/fosdem.jpg",
       "name": "FOSDEM",
+      "location": "Bruxelles",
       "years": [2015, 2016],
       "url": "https://fosdem.org"
     },
     {
       "image": "/images/conferences/devoxx-france.png",
       "name": "Devoxx France",
+      "location": "Paris",
       "years": [2014],
       "url": "http://www.devoxx.fr"
     },
     {
       "image": "/images/conferences/at-bordeaux.jpg",
-      "name": "Agile Tours Bordeaux",
+      "name": "Agile Tour Bordeaux",
+      "location": "Bordeaux",
       "years": [2014],
       "url": "http://www.agiletourbordeaux.fr"
     }
@@ -41,30 +47,36 @@
     {
       "image": "/images/conferences/poitou-jug.png",
       "name": "Poitou JUG",
+      "location": "Niort",
       "url": "http://www.poitoucharentesjug.org"
     },
     {
       "image": "/images/conferences/tours-jug.png",
       "name": "Tours JUG",
+      "location": "Tours",
       "url": "http://www.toursjug.org"
     },
     {
       "image": "/images/conferences/human-talks.png",
       "name": "Human Talks Nantes",
+      "location": "Nantes",
       "url": "http://humantalks.com/cities/nantes"
     },    {
       "image": "/images/conferences/nantes-jug.png",
       "name": "Nantes JUG",
+      "location": "Nantes",
       "url": "http://nantesjug.org"
     },
     {
       "image": "/images/conferences/nantes-js.png",
       "name": "Nantes JS",
+      "location": "Nantes",
       "url": "http://nantesjs.org"
     },
     {
       "image": "/images/conferences/docker-tours.png",
       "name": "Docker Tours",
+      "location": "Tours",
       "url": "https://www.meetup.com/Docker-Tours/"
     }
   ]
