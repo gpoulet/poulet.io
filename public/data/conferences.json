@@ -1,0 +1,53 @@
+{
+  "conferences": [
+    {
+      "image": "/images/conferences/breizhcamp.png",
+      "alt": "BreizhCamp"
+    },
+    {
+      "image": "/images/conferences/devfest-nantes.jpg",
+      "alt": "DevFest Nantes"
+    },
+    {
+      "image": "/images/conferences/jug-summer-camp.png",
+      "alt": "JUG Summer Camp"
+    },
+    {
+      "image": "/images/conferences/fosdem.jpg",
+      "alt": "FOSDEM"
+    },
+    {
+      "image": "/images/conferences/devoxx-france.jpg",
+      "alt": "Devoxx France"
+    },
+    {
+      "image": "/images/conferences/at-bordeaux.jpg",
+      "alt": "Agile Tours Bordeaux"
+    }
+  ],
+  "userGroups": [
+    {
+      "image": "/images/conferences/poitou-jug.png",
+      "alt": "Poitou JUG"
+    },
+    {
+      "image": "/images/conferences/tours-jug.png",
+      "alt": "Tours JUG"
+    },
+    {
+      "image": "/images/conferences/human-talks.png",
+      "alt": "Human Talks"
+    },    {
+      "image": "/images/conferences/nantes-jug.png",
+      "alt": "Nantes JUG"
+    },
+    {
+      "image": "/images/conferences/nantes-js.png",
+      "alt": "Nantes JS"
+    },
+    {
+      "image": "/images/conferences/docker-tours.png",
+      "alt": "Docker Tours"
+    }
+  ]
+}
