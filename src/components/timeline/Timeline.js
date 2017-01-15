@@ -30,6 +30,7 @@ export default class Timeline extends React.Component {
   render() {
     return (
       <div className="container">
+        <h2 className="header">Timeline</h2>
         <div className="timeline">
           {this.state.timeline.map((item, index) => <TimelineEvent key={index} {...item} />)}
         </div>

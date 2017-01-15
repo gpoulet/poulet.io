@@ -27,7 +27,7 @@ export default class TimelineEvent extends React.Component {
             <img className="activator" src={this.props.image} alt={this.props.alt} />
           </div>
           <div className="card-content">
-            <span className="card-title activator grey-text text-darken-4">{this.props.title}<i className="material-icons right">more_vert</i></span>
+            <span className="card-title activator">{this.props.title}<i className="material-icons right grey-text text-darken-4">more_vert</i></span>
             <p>{this.props.content}</p>
           </div>
           <div className="card-reveal">

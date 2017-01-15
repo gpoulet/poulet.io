@@ -66,6 +66,14 @@ nav .brand-logo {
   width:3rem;
 }
 
+h2.header {
+  color: #003b6f;
+}
+
 div.card > div.card-stacked > div.card-content > p.card-title  {
+  color: #003b6f;
+}
+
+div.card.timeline-content > div.card-content > span.card-title {
   color: #003b6f;
 }
