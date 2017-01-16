@@ -4,7 +4,7 @@ import {Router, Route, IndexRoute, browserHistory} from 'react-router';
 
 import Layout from './Layout';
 import Home from './Home';
-import Skills from './Skills';
+import Skills from './skills/Skills';
 import Timeline from './timeline/Timeline';
 import Conferences from './conferences/Conferences';
 import Blog from './Blog';

@@ -9,6 +9,10 @@ const get = (entity, callback, callbackError) => {
   })
 };
 
+export const getSkills = (callback, callbackError) => {
+  get('skills', callback, callbackError)
+};
+
 export const getTimeline = (callback, callbackError) => {
   get('timeline', callback, callbackError)
 };
