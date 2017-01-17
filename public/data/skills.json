@@ -92,6 +92,48 @@
       "url": "https://www.php.net"
     }
   ],
+  "frameworkAndWeb": [
+    {
+      "image": "/images/skills/frameworkAndWeb/play.svg",
+      "name": "Play Framework",
+      "url": "https://www.playframework.com/"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/spring.svg",
+      "name": "Spring (Boot, MVC, Data, Security)",
+      "url": "https://facebook.github.io/react/"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/java-ee.png",
+      "name": "JavaEE (6, 7 ,8) : EJB, CDI, JPA, JAX-RS, JSF, Servlets / JSP, Struts",
+      "url": "http://www.oracle.com/technetwork/java/javaee/overview/index.html"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/hibernate.svg",
+      "name": "Hibernate",
+      "url": "http://hibernate.org/"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/react.svg",
+      "name": "React",
+      "url": "https://facebook.github.io/react/"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/angular.svg",
+      "name": "AngularJS",
+      "url": "https://angularjs.org"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/polymer.svg",
+      "name": "Polymer",
+      "url": "https://www.polymer-project.org/"
+    },
+    {
+      "image": "/images/skills/frameworkAndWeb/es6.svg",
+      "name": "JavaScript ES6",
+      "url": "www.ecma-international.org/ecma-262/6.0/"
+    }
+    ],
   "ide": [
     {
       "image": "/images/skills/ide/intellij-idea.svg",
@@ -117,6 +159,22 @@
       "image": "/images/skills/ide/atom.svg",
       "name": "Atom",
       "url": "https://www.atom.io"
+    }
+  ],  "servers": [
+    {
+      "image": "/images/skills/servers/tomcat.svg",
+      "name": "Apache Tomcat",
+      "url": "http://tomcat.apache.org"
+    },
+    {
+      "image": "/images/skills/servers/glassfish.png",
+      "name": "Glassfish",
+      "url": "https://glassfish.java.net/"
+    },
+    {
+      "image": "/images/skills/servers/wildfly.png",
+      "name": "WildFly",
+      "url": "https://www.wildfly.org/"
     }
   ],
   "os": [
@@ -208,6 +266,11 @@
       "url": "https://www.sonarqube.org/"
     },
     {
+      "image": "/images/skills/methodology/docker.svg",
+      "name": "Docker",
+      "url": "https://www.docker.com"
+    },
+    {
       "image": "/images/skills/methodology/jira.svg",
       "name": "JIRA",
       "url": "https://fr.atlassian.com/software/jira"
@@ -216,23 +279,6 @@
       "image": "/images/skills/methodology/redmine.png",
       "name": "Redmine",
       "url": "https://www.redmine.org"
-    }
-    ],
-  "frontEnd": [
-    {
-      "image": "/images/skills/react.svg",
-      "name": "React",
-      "url": "https://facebook.github.io/react/"
-    },
-    {
-      "image": "/images/skills/angular.svg",
-      "name": "AngularJS",
-      "url": "https://angularjs.org"
-    },
-    {
-      "image": "/images/skills/polymer.svg",
-      "name": "Polymer",
-      "url": "https://www.polymer-project.org/"
     }
   ]
 }

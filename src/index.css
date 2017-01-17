@@ -10,7 +10,7 @@ body {
 }
 
 nav {
-  background-color: #003b6f	;
+  background-color: #0277bd	;
 }
 
 nav>div>a.brand-logo {
@@ -21,14 +21,20 @@ a:hover {
   cursor: pointer;
 }
 
+a.menu {
+  color: rgba(255,255,255,.7);
+}
+
 a.menu.active {
-  background-color: #00203c;
+  color: #eee;
+  /*background-color: #01579b;*/
   font-weight: 600;
   border-bottom: 2px solid transparent;
   border-bottom-color: #eee;
 }
 
 a.menu:hover {
+  color: #ffc107;
   border-bottom-color: #eee;
   border-bottom-style: solid;
 }
@@ -44,7 +50,7 @@ a.mobile-menu.active {
 }
 
 .side-nav .userView .background {
-  background-color: #f44336;
+  background-color: #0277bd;
   background-image:  linear-gradient(
           rgba(0, 0, 0, 0.2),
           rgba(0, 0, 0, 0.2)
@@ -75,15 +81,15 @@ nav .brand-logo {
 }
 
 h2.header {
-  color: #6f8ea9;
+  color: #0277bd;
 }
 
 div.card > div.card-stacked > div.card-content > p.card-title  {
-  color: #6f8ea9;
+  color: #0277bd;
 }
 
 div.card.timeline-content > div.card-content > span.card-title {
-  color: #6f8ea9;
+  color: #0277bd;
 }
 
 .valign-center {

@@ -11,9 +11,10 @@ export default class Skills extends React.Component {
       database: [],
       bigDataNoSql: [],
       languages: [],
+      frameworkAndWeb: [],
+      servers: [],
       ide: [],
       os: [],
-      frontEnd: [],
       cloud: [],
     }
   }
@@ -41,10 +42,11 @@ export default class Skills extends React.Component {
         <SkillsItem category="Big Data / NoSQL" skills={this.state.bigDataNoSql} />
         <SkillsItem category="Cloud" skills={this.state.cloud} />
         <SkillsItem category="Languages" skills={this.state.languages} />
+        <SkillsItem category="Framework and Web Development" skills={this.state.frameworkAndWeb} />
+        <SkillsItem category="Application Servers" skills={this.state.servers} />
         <SkillsItem category="IDE" skills={this.state.ide} />
         <SkillsItem category="OS" skills={this.state.os} />
         <SkillsItem category="Methodology & Software engineering" skills={this.state.methodology} />
-        <SkillsItem category="Front-end" skills={this.state.frontEnd} />
       </div>
     );
   }
