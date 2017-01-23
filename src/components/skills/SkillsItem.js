@@ -3,10 +3,27 @@ import React from 'react';
 
 const Item = (skill, index) => {
   return (
-    <a href={skill.url} target="_blank" key={index} className="col s6 m3 l2 center-align">
-      <img src={skill.image} alt={skill.name} style={{ maxWidth: '160px', maxHeight: '90px' }}/>
-      <p style={{color: '#000'}}>{skill.name}</p>
-    </a>
+    <div className="col s12 m6 l3" key={index}>
+      <div className="card">
+        <div className="card-image">
+          <a href={skill.url} target="_blank">
+            <div
+              style={{
+                backgroundImage: `url(${skill.image})`,
+                backgroundSize: '100%',
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'center',
+                height: '300px'
+              }}/>
+          </a>
+        </div>
+        <div className="card-stacked">
+          <div className="card-content">
+            <p className="card-title truncate">{skill.name}</p>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }
 

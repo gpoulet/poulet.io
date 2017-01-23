@@ -7,12 +7,12 @@
     },
     {
       "image": "/images/skills/database/postgresql.svg",
-      "name": "PostGreSQL",
+      "name": "PostgreSQL",
       "url": "http://www.postgresql.org"
     },
     {
       "image": "/images/skills/database/sql-server.png",
-      "name": "Microsoft SQL Server",
+      "name": "SQL Server",
       "url": "http://www.postgresql.org"
     },
     {
@@ -137,7 +137,7 @@
   "ide": [
     {
       "image": "/images/skills/ide/intellij-idea.svg",
-      "name": "IntelliJ",
+      "name": "IntelliJ IDEA",
       "url": "https://www.jetbrains.com"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "image": "/images/skills/automation/gitlab.svg",
-      "name": "GitLab",
+      "name": "GitLab CI",
       "url": "https://gitlab.com/"
     },
     {
