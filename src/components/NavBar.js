@@ -35,7 +35,7 @@ export default class NavBar extends React.Component {
                 <li>
                   <div className="userView">
                     <div className="background"></div>
-                    <a href="#!user"><img className="circle" alt="Gauthier POULET" src="images/gpoulet.png"/></a>
+                    <a href="#!user"><img className="circle" alt="Gauthier POULET" src="images/gp.jpg"/></a>
                     <a href="#!name"><span className="white-text name">Gauthier POULET</span></a>
                     <a href="#!email"><span className="grey-text text-lighten-3 email">Geek Software Engineer</span></a>
                   </div>

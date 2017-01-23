@@ -29,12 +29,11 @@ a.menu.active {
   color: #eee;
   /*background-color: #01579b;*/
   font-weight: 600;
-  border-bottom: 2px solid transparent;
-  border-bottom-color: #eee;
+  border-bottom: 2px solid #eee;
 }
 
 a.menu:hover {
-  color: #ffc107;
+  color: #eee;
   border-bottom-color: #eee;
   border-bottom-style: solid;
 }
