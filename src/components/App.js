@@ -17,7 +17,7 @@ const App = () => {
     <Router history={browserHistory} onUpdate={() => window.scrollTo(0, 0)}>
       <Route path="/" component={Layout}>
         <IndexRoute component={Home}/>
-        <Route path="home" component={Home}/>
+        <Route path="/" component={Home}/>
         <Route path="skills" component={Skills}/>
         <Route path="timeline" component={Timeline}/>
         <Route path="conferences" component={Conferences}/>
