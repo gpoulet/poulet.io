@@ -5,8 +5,8 @@ const ContactItem = (props) => {
           <div className="col s12 m4">
             <a href={props.url} target="_blank">
               <div className="center promo promo-example">
-                <i className={props.logo + ' fa contact-logo amber-text'} aria-hidden="true"/>
-                <h5>{props.name}</h5>
+                <i className={props.logo + ' fa contact-logo'} aria-hidden="true"/>
+                <h5 className="contact-title">{props.name}</h5>
                 <p className="light center black-text">{props.content}</p>
               </div>
             </a>

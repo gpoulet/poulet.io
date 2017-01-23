@@ -61,7 +61,7 @@ a.mobile-menu.active>i.material-icons {
 }
 
 .side-nav .userView .background {
-  background-color: #0277bd;
+  background-color: #db4437;
   background-image:  linear-gradient(
           rgba(0, 0, 0, 0.2),
           rgba(0, 0, 0, 0.2)
@@ -123,4 +123,8 @@ div.card.timeline-content > div.card-content > span.card-title {
 .fa.contact-logo {
   margin-right: .07142857em;
   font-size: 12em;
+}
+
+.contact-title {
+  color: #0277bd;
 }

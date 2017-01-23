@@ -2,7 +2,7 @@
   "contact": [
     {
       "url":"mailto:gauthier.poulet@gmail.com",
-      "logo":"fa-envelope",
+      "logo":"fa-envelope-o red-text",
       "name":"E-mail",
       "content":"Send me an e-mail."
     },
@@ -14,19 +14,19 @@
     },
     {
       "url":"https://github.com/gpoulet",
-      "logo":"fa-github",
+      "logo":"fa-github black-text",
       "name":"GitHub",
-      "content":"See my open-source contributions."
+      "content":"See my open source contributions."
     },
     {
       "url":"https://www.linkedin.com/in/gpoulet",
-      "logo":"fa-linkedin",
+      "logo":"fa-linkedin light-blue-text text-darken-3",
       "name":"LinkedIn",
       "content":"Watch my LinkedIn profile."
     },
     {
       "url":"http://www.viadeo.com/p/0021xaifkqvx1hj",
-      "logo":"fa-viadeo",
+      "logo":"fa-viadeo amber-text",
       "name":"Viadeo",
       "content":"See my Viadeo profile."
     }
