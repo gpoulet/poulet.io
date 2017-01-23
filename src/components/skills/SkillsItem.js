@@ -11,10 +11,9 @@ const Item = (skill, index) => {
 }
 
 const SkillsItem = (props) => {
-  console.log(props);
   return (
     <div>
-      <h3>{props.category}</h3>
+      <h4>{props.category}</h4>
       <div className="row">
         {props.skills ? props.skills.map(Item) : null}
       </div>
