@@ -108,3 +108,14 @@ div.card.timeline-content > div.card-content > span.card-title {
   vertical-align: middle;
   align-items: center;
 }
+
+.home {
+  margin-top: 0px;
+  padding-top: 8rem;
+  min-height:40rem;
+  background: url('/images/home/home-tablet.jpg');
+}
+
+.home-button {
+  margin: 30px;
+}

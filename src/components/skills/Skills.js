@@ -18,7 +18,10 @@ export default class Skills extends React.Component {
       cloud: [],
       methodology: [],
       versioning: [],
+      build: [],
       automation: [],
+      virtualization: [],
+      tests: []
     }
   }
 
@@ -49,8 +52,11 @@ export default class Skills extends React.Component {
         <SkillsItem category="Application Servers" skills={this.state.servers} />
         <SkillsItem category="IDE" skills={this.state.ide} />
         <SkillsItem category="OS" skills={this.state.os} />
-        <SkillsItem category="Methodology & Tools" skills={this.state.methodology} />
-        <SkillsItem category="Automation & Software engineering" skills={this.state.automation} />
+        <SkillsItem category="Methodology & Agility" skills={this.state.methodology} />
+        <SkillsItem category="Build tools" skills={this.state.build} />
+        <SkillsItem category="Software Factory" skills={this.state.automation} />
+        <SkillsItem category="Tests" skills={this.state.tests} />
+        <SkillsItem category="Virtualization & Containers" skills={this.state.virtualization} />
         <SkillsItem category="Versioning" skills={this.state.versioning} />
       </div>
     );

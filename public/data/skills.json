@@ -211,37 +211,34 @@
       "url": "https://fr.atlassian.com/software/jira"
     },
     {
+      "image": "/images/skills/methodology/trello.svg",
+      "name": "Trello",
+      "url": "https://www.trello.com/"
+    },
+    {
       "image": "/images/skills/methodology/redmine.png",
       "name": "Redmine",
       "url": "https://www.redmine.org"
     }
   ],
-  "automation": [
+  "build": [
     {
-      "image": "/images/skills/automation/maven.png",
+      "image": "/images/skills/build/maven.png",
       "name": "Maven",
       "url": "https://maven.apache.org/"
     },
     {
-      "image": "/images/skills/automation/gradle.svg",
+      "image": "/images/skills/build/gradle.svg",
       "name": "Gradle",
       "url": "https://gradle.org/"
     },
     {
-      "image": "/images/skills/automation/npm.svg",
+      "image": "/images/skills/build/npm.svg",
       "name": "NPM",
       "url": "https://npmjs.org/"
-    },
-    {
-      "image": "/images/skills/automation/junit.png",
-      "name": "JUnit",
-      "url": "http://junit.org/"
-    },
-    {
-      "image": "/images/skills/automation/specs2.png",
-      "name": "Specs",
-      "url": "http://etorreborre.github.io/specs2/"
-    },
+    }
+  ],
+  "automation": [
     {
       "image": "/images/skills/automation/jenkins.svg",
       "name": "Jenkins",
@@ -266,11 +263,40 @@
       "image": "/images/skills/automation/sonarqube.png",
       "name": "SonarQube",
       "url": "https://www.sonarqube.org/"
+    }
+  ],
+  "tests": [
+    {
+      "image": "/images/skills/tests/junit.png",
+      "name": "JUnit",
+      "url": "http://junit.org/"
     },
     {
-      "image": "/images/skills/automation/docker.svg",
+      "image": "/images/skills/tests/specs2.png",
+      "name": "Specs",
+      "url": "http://etorreborre.github.io/specs2/"
+    },
+    {
+      "image": "/images/skills/tests/mockito.png",
+      "name": "Mockito",
+      "url": "http://site.mockito.org/"
+    },
+    {
+      "image": "/images/skills/tests/selenium.png",
+      "name": "Selenium",
+      "url": "http://www.seleniumhq.org/"
+    }
+  ],
+  "virtualization": [
+    {
+      "image": "/images/skills/virtualization/docker.svg",
       "name": "Docker",
-      "url": "https://www.docker.com"
+      "url": "https://www.docker.com/"
+    },
+    {
+      "image": "/images/skills/virtualization/virtualbox.png",
+      "name": "VirtualBox",
+      "url": "https://www.virtualbox.org/"
     }
   ],
   "versioning": [
