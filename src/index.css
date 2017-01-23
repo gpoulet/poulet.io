@@ -128,3 +128,72 @@ div.card.timeline-content > div.card-content > span.card-title {
 .contact-title {
   color: #0277bd;
 }
+
+
+.orange-button {
+  background-color: #FF9800;
+}
+
+.red-button {
+  background-color: #DB4437;
+}
+
+.light-blue-button {
+  background-color: #1DA1F2;
+}
+
+.blue-button {
+  background-color: #365899;
+}
+
+.linkedin-button {
+  background-color: #0277bd;
+}
+
+.twitter-button {
+  background-color: #1DA1F2;
+}
+
+@media only screen and (max-width: 1199px) {
+  .github-button, .contact-button, .linkedin-button, .twitter-button {
+    min-width: 191px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .github-button, .contact-button, .linkedin-button, .twitter-button {
+    min-width: 200px;
+  }
+}
+
+.github-button {
+  background-color: #212121;
+}
+
+.contact-button {
+  background-color: #DB4437;
+}
+
+.orange-button:hover, .light-blue-button:hover, .blue-button:hover,  .red-button:hover, .linkedin-button:hover, .twitter-button:hover, .github-button:hover, .contact-button:hover {
+  color: #37474F  !important;
+  font-weight: 600  !important;
+  background-color: #CFD8DC;
+}
+
+.orange-button .active, .light-blue-button .active, .blue-button .active,  .red-button .active, .linkedin-button .active, .twitter-button .active, .github-button .active, .contact-button .active {
+  color: #37474F  !important;
+  font-weight: 600  !important;
+  background-color: #CFD8DC;
+}
+
+.orange-button:focus,  .light-blue-button:focus, .blue-button:focus,  .red-button:focus,
+.linkedin-button:focus, .twitter-button:focus, .github-button:focus, .contact-button:focus{
+  color: #37474F  !important;
+  font-weight: 600  !important;
+  background-color: #CFD8DC !important;
+}
+
+footer.page-footer {
+  background-color: #78909c;
+  margin-top: 0px;
+}
