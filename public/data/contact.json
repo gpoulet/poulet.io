@@ -1,0 +1,34 @@
+{
+  "contact": [
+    {
+      "url":"mailto:gauthier.poulet@gmail.com",
+      "logo":"fa-envelope",
+      "name":"E-mail",
+      "content":"Send me an e-mail."
+    },
+    {
+      "url":"https://www.twitter.com/kikotte",
+      "logo":"fa-twitter",
+      "name":"Twitter",
+      "content":"Follow me on Twitter."
+    },
+    {
+      "url":"https://github.com/gpoulet",
+      "logo":"fa-github",
+      "name":"GitHub",
+      "content":"See my open-source contributions."
+    },
+    {
+      "url":"https://www.linkedin.com/in/gpoulet",
+      "logo":"fa-linkedin",
+      "name":"LinkedIn",
+      "content":"Watch my LinkedIn profile."
+    },
+    {
+      "url":"http://www.viadeo.com/p/0021xaifkqvx1hj",
+      "logo":"fa-viadeo",
+      "name":"Viadeo",
+      "content":"See my Viadeo profile."
+    }
+  ]
+}

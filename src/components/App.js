@@ -8,7 +8,7 @@ import Skills from './skills/Skills';
 import Timeline from './timeline/Timeline';
 import Conferences from './conferences/Conferences';
 import Blog from './Blog';
-import Contact from './Contact';
+import Contact from './contact/Contact';
 import NotFound from './NotFound';
 
 const App = () => {

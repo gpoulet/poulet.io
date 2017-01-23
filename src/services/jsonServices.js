@@ -20,3 +20,7 @@ export const getTimeline = (callback, callbackError) => {
 export const getConferences = (callback, callbackError) => {
   get('conferences', callback, callbackError)
 };
+
+export const getContact = (callback, callbackError) => {
+  get('contact', callback, callbackError)
+};
