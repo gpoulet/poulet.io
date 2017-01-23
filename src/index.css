@@ -41,8 +41,8 @@ a.menu:hover {
 }
 
 a.mobile-menu {
-  /*font-weight: 600;*/
-  color: #616161;
+  font-weight: 500;
+  color: #222;
 }
 
 a.mobile-menu.active {

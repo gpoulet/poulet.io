@@ -206,71 +206,6 @@
       "url": "https://fr.wikipedia.org/wiki/Patron_de_conception"
     },
     {
-      "image": "/images/skills/methodology/git.svg",
-      "name": "GIT",
-      "url": "https://git-scm.com/"
-    },
-    {
-      "image": "/images/skills/methodology/subversion.svg",
-      "name": "SVN",
-      "url": "https://subversion.apache.org/"
-    },
-    {
-      "image": "/images/skills/methodology/maven.png",
-      "name": "Maven",
-      "url": "https://maven.apache.org/"
-    },
-    {
-      "image": "/images/skills/methodology/gradle.svg",
-      "name": "Gradle",
-      "url": "https://gradle.org/"
-    },
-    {
-      "image": "/images/skills/methodology/npm.svg",
-      "name": "NPM",
-      "url": "https://npmjs.org/"
-    },
-    {
-      "image": "/images/skills/methodology/junit.png",
-      "name": "JUnit",
-      "url": "http://junit.org/"
-    },
-    {
-      "image": "/images/skills/methodology/specs2.png",
-      "name": "Specs",
-      "url": "http://etorreborre.github.io/specs2/"
-    },
-    {
-      "image": "/images/skills/methodology/jenkins.svg",
-      "name": "Jenkins",
-      "url": "https://jenkins.io/"
-    },
-    {
-      "image": "/images/skills/methodology/gitlab.svg",
-      "name": "GitLab",
-      "url": "https://gitlab.com/"
-    },
-    {
-      "image": "/images/skills/methodology/travis-ci.svg",
-      "name": "Travis CI",
-      "url": "https://travis-ci.org/"
-    },
-    {
-      "image": "/images/skills/methodology/nexus.png",
-      "name": "Sonatype Nexus",
-      "url": "https://www.sonatype.com/products-sonatype"
-    },
-    {
-      "image": "/images/skills/methodology/sonarqube.png",
-      "name": "SonarQube",
-      "url": "https://www.sonarqube.org/"
-    },
-    {
-      "image": "/images/skills/methodology/docker.svg",
-      "name": "Docker",
-      "url": "https://www.docker.com"
-    },
-    {
       "image": "/images/skills/methodology/jira.svg",
       "name": "JIRA",
       "url": "https://fr.atlassian.com/software/jira"
@@ -279,6 +214,75 @@
       "image": "/images/skills/methodology/redmine.png",
       "name": "Redmine",
       "url": "https://www.redmine.org"
+    }
+  ],
+  "automation": [
+    {
+      "image": "/images/skills/automation/maven.png",
+      "name": "Maven",
+      "url": "https://maven.apache.org/"
+    },
+    {
+      "image": "/images/skills/automation/gradle.svg",
+      "name": "Gradle",
+      "url": "https://gradle.org/"
+    },
+    {
+      "image": "/images/skills/automation/npm.svg",
+      "name": "NPM",
+      "url": "https://npmjs.org/"
+    },
+    {
+      "image": "/images/skills/automation/junit.png",
+      "name": "JUnit",
+      "url": "http://junit.org/"
+    },
+    {
+      "image": "/images/skills/automation/specs2.png",
+      "name": "Specs",
+      "url": "http://etorreborre.github.io/specs2/"
+    },
+    {
+      "image": "/images/skills/automation/jenkins.svg",
+      "name": "Jenkins",
+      "url": "https://jenkins.io/"
+    },
+    {
+      "image": "/images/skills/automation/gitlab.svg",
+      "name": "GitLab",
+      "url": "https://gitlab.com/"
+    },
+    {
+      "image": "/images/skills/automation/travis-ci.svg",
+      "name": "Travis CI",
+      "url": "https://travis-ci.org/"
+    },
+    {
+      "image": "/images/skills/automation/nexus.png",
+      "name": "Sonatype Nexus",
+      "url": "https://www.sonatype.com/products-sonatype"
+    },
+    {
+      "image": "/images/skills/automation/sonarqube.png",
+      "name": "SonarQube",
+      "url": "https://www.sonarqube.org/"
+    },
+    {
+      "image": "/images/skills/automation/docker.svg",
+      "name": "Docker",
+      "url": "https://www.docker.com"
+    }
+  ],
+  "versioning": [
+    {
+      "image": "/images/skills/versioning/git.svg",
+      "name": "GIT",
+      "url": "https://git-scm.com/"
+    },
+    {
+      "image": "/images/skills/versioning/subversion.svg",
+      "name": "SVN",
+      "url": "https://subversion.apache.org/"
     }
   ]
 }
