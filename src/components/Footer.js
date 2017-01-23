@@ -31,7 +31,7 @@ return (
 
         <div className="col l3 s12">
           <h5 className="white-text">Social Networks</h5>
-          <p><a className="grey-text text-lighten-3 waves-effect waves-light btn twitter-button" href="https://www.twitter.com/gpoulet" target="_blank"><i className="material-icons left">repeat</i>Twitter</a></p>
+          <p><a className="grey-text text-lighten-3 waves-effect waves-light btn twitter-button" href="https://www.twitter.com/kikotte" target="_blank"><i className="material-icons left">repeat</i>Twitter</a></p>
           <p><a className="grey-text text-lighten-3 waves-effect waves-light btn github-button" href="https://www.github.com/gpoulet" target="_blank"><i className="material-icons left">star</i>Github</a></p>
           <p><a className="grey-text text-lighten-3 waves-effect waves-light btn linkedin-button" href="https://www.linkedin.com/in/gpoulet" target="_blank"><i className="material-icons left">face</i>LinkedIn</a></p>
 
