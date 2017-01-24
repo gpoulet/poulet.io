@@ -13,4 +13,5 @@ script:
   - yarn run build
 
 after_success:
-  - firebase deploy --token=${FIREBASE_API_TOKEN}
+  - firebase use --token ${FIREBASE_DEPLOY_KEY} {$PROJECT_NAME}
+  - firebase deploy --token ${FIREBASE_DEPLOY_KEY}
