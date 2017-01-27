@@ -218,3 +218,11 @@ footer.page-footer {
   background-color: #78909c;
   margin-top: 0px;
 }
+
+.footer-logo {
+  font-family: 'Product Sans', Roboto, sans-serif;
+}
+
+i.footer-icons {
+  font-size: 1.2rem;
+}
