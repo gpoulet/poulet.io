@@ -8,7 +8,7 @@ return (
     <div className="container">
       <div className="row">
         <div className="col l5 s12">
-          <h5 className="white-text brand-logo">Gauthier Poulet</h5>
+          <h5 className="white-text footer-logo">Gauthier POULET</h5>
           <p className="grey-text text-lighten-4">Poitiers, FRANCE</p>
           <p className="grey-text text-lighten-4"><a className="grey-text text-lighten-3" href="tel:+33674959428">Phone : +33674959428</a>
             <br/><a className="grey-text text-lighten-3" href="mailto:gauthier.poulet@gmail.com">E-mail : gauthier.poulet@gmail.com</a></p>
@@ -30,7 +30,7 @@ return (
         </div>
 
         <div className="col l3 s12">
-          <h5 className="white-text">Social Networks</h5>
+          <h5 className="white-text">Social networks</h5>
           <p>
             <a className="grey-text text-lighten-3" href="https://www.twitter.com/kikotte" target="_blank"><i className="fa fa-twitter footer-icons"/> Twitter</a><br/>
             <a className="grey-text text-lighten-3" href="https://www.github.com/gpoulet" target="_blank"><i className="fa fa-github footer-icons"/> Github</a><br/>

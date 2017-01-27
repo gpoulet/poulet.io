@@ -35,7 +35,7 @@ a:hover {
 }
 
 a.menu {
-  color: rgba(255,255,255,.85);
+  color: rgba(255,255,255,.8);
   /*text-transform: uppercase;*/
   font-size: 1.1rem;
   /*padding-bottom: -2px;*/
@@ -219,7 +219,7 @@ footer.page-footer {
   margin-top: 0px;
 }
 
-.footer-logo {
+h5.footer-logo {
   font-family: 'Product Sans', Roboto, sans-serif;
 }
 
