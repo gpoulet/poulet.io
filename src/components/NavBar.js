@@ -29,15 +29,15 @@ export default class NavBar extends React.Component {
                 <li><Link activeClassName={'active'} className="menu" to={'/conferences'}>Conferences</Link></li>
                 <li><Link activeClassName={'active'} className="menu" to={'/blog'}>Blog</Link></li>
                 <li><Link activeClassName={'active'} className="menu" to={'/contact'}>Contact</Link></li>
-                <li><a href="https://www.github.com/gpoulet" className="menu" target="_blank"><i className="fa fa-github fa-lg nav-icon" /></a></li>
+                {/*<li><a href="https://www.github.com/gpoulet" className="menu" target="_blank"><i className="fa fa-github fa-lg nav-icon" /></a></li>*/}
               </ul>
               <ul className="side-nav" id="mobile-demo">
                 <li>
                   <div className="userView">
                     <div className="background"></div>
-                    <a href="#!user"><img className="circle" alt="Gauthier POULET" src="images/gauthier-poulet.jpg"/></a>
-                    <a href="#!name"><span className="white-text name">Gauthier POULET</span></a>
-                    <a href="#!email"><span className="grey-text text-lighten-3 email">Geek Software Engineer</span></a>
+                    <img className="circle" alt="Gauthier POULET" src="images/gauthier-poulet.jpg"/>
+                    <span className="white-text name">Gauthier POULET</span>
+                    <span className="grey-text text-lighten-3 email">Full-Stack Developer</span>
                   </div>
                 </li>
                 <li><IndexLink className="mobile-menu" activeClassName={'active'} onClick={this.closeSideNav} to={'/'}>

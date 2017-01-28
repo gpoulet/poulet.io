@@ -7,7 +7,7 @@ const Home = () => {
 
       <h1 className="white-text center-align">Gauthier POULET</h1>
 
-      <h2 className="white-text light center-align">Geek Software Engineer</h2>
+      <h2 className="white-text light center-align">Full-Stack Developer</h2>
 
       <h4 className="white-text light center-align">
         <i className="material-icons small amber-text text-lighten-1">location_on</i> Poitiers</h4>
