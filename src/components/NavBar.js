@@ -29,6 +29,8 @@ export default class NavBar extends React.Component {
                 <li><Link activeClassName={'active'} className="menu" to={'/conferences'}>Conferences</Link></li>
                 <li><Link activeClassName={'active'} className="menu" to={'/blog'}>Blog</Link></li>
                 <li><Link activeClassName={'active'} className="menu" to={'/contact'}>Contact</Link></li>
+                {/*<li><Link activeClassName={'active'} className="menu waves-effect waves-light btn light-blue darken-3" to={'/contact'}>Contact</Link></li>*/}
+
                 {/*<li><a href="https://www.github.com/gpoulet" className="menu" target="_blank"><i className="fa fa-github fa-lg nav-icon" /></a></li>*/}
               </ul>
               <ul className="side-nav" id="mobile-demo">
