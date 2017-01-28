@@ -10,7 +10,7 @@ const Home = () => {
       <h2 className="white-text light center-align">Geek Software Engineer</h2>
 
       <h4 className="white-text light center-align">
-        <i className="material-icons small amber-text text-lighten-2">location_on</i> Poitiers</h4>
+        <i className="material-icons small amber-text text-lighten-1">location_on</i> Poitiers</h4>
 
       <div className="center-align">
         <Link to="/skills">

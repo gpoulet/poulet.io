@@ -224,5 +224,9 @@ h5.footer-logo {
 }
 
 i.footer-icons {
+  font-size: 1.0rem;
+}
+
+i.footer-social-icons {
   font-size: 1.2rem;
 }
