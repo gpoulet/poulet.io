@@ -9,14 +9,23 @@ return (
       <div className="row">
         <div className="col l5 s12">
           <h5 className="white-text footer-logo">Gauthier POULET</h5>
-          <p className="grey-text text-lighten-4">
-            <a className="grey-text text-lighten-3" href="https://maps.google.fr/maps?q=86000+Poitiers" target="_blank"><i className="material-icons footer-icons amber-text text-lighten-1">location_on</i> Poitiers, FRANCE</a>
-            <br/>
-          <a className="grey-text text-lighten-3" href="tel:+33674959428"><i className="material-icons footer-icons amber-text text-lighten-1">phone</i> +33674959428</a>
-            <br/>
-          <a className="grey-text text-lighten-3" href="mailto:gauthier.poulet@gmail.com"><i className="material-icons footer-icons amber-text text-lighten-1">email</i> gauthier.poulet@gmail.com</a></p>
+          <div className="">
+          <div className="grey-text text-lighten-4">
+            <a className="grey-text text-lighten-3" href="https://maps.google.fr/maps?q=86000+Poitiers" target="_blank">
+              <i className="material-icons footer-icons amber-text text-lighten-1">location_on</i> Poitiers, FRANCE</a>
+          </div>
+          <div className="grey-text text-lighten-4">
+           <a className="grey-text text-lighten-3" href="tel:+33674959428">
+             <i className="material-icons footer-icons amber-text text-lighten-1">phone</i> +33674959428</a>
+          </div>
+          <div className="grey-text text-lighten-4">
+            <a className="grey-text text-lighten-3" href="mailto:gauthier.poulet@gmail.com"><i className="material-icons footer-icons amber-text text-lighten-1">email</i> gauthier.poulet@gmail.com</a>
+          </div>
+          </div>
           <p>
-            <Link activeClassName={'active'} to={'/contact'} className="waves-effect waves-light btn contact-button"><i className="material-icons left">email</i>Contact</Link>
+            <Link activeClassName={'active'} to={'/contact'} className="waves-effect waves-light btn contact-button">
+              <i className="material-icons left">email</i>Contact
+            </Link>
           </p>
         </div>
 
