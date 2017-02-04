@@ -12,14 +12,15 @@ return (
           <div className="">
           <div className="grey-text text-lighten-4">
             <a className="grey-text text-lighten-3" href="https://maps.google.fr/maps?q=86000+Poitiers" target="_blank">
-              <i className="material-icons footer-icons amber-text text-lighten-1">location_on</i> Poitiers, FRANCE</a>
+              <i className="material-icons footer-icons white-text">location_on</i> Poitiers, FRANCE</a>
           </div>
           <div className="grey-text text-lighten-4">
            <a className="grey-text text-lighten-3" href="tel:+33674959428">
-             <i className="material-icons footer-icons amber-text text-lighten-1">phone</i> +33674959428</a>
+             <i className="material-icons footer-icons white-text">phone</i> +33674959428</a>
           </div>
           <div className="grey-text text-lighten-4">
-            <a className="grey-text text-lighten-3" href="mailto:gauthier.poulet@gmail.com"><i className="material-icons footer-icons amber-text text-lighten-1">email</i> gauthier.poulet@gmail.com</a>
+            <a className="grey-text text-lighten-3" href="mailto:gauthier.poulet@gmail.com">
+              <i className="material-icons footer-icons white-text">email</i> gauthier.poulet@gmail.com</a>
           </div>
           </div>
           <p>
